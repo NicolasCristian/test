@@ -1,6 +1,6 @@
 Resolução do segundo desafio proposto para a vaga de Analista na empresa Benoit
 
-Fiz a modelagem do banco utilizando o [MySQL Workbench](https://www.mysql.com/products/workbench/), para abrir o arquivo `database_model.mwb` é necessário instalar o programa citado anteriormente.
+A modelagem do banco foi feita através do [MySQL Workbench](https://www.mysql.com/products/workbench/). Para abrir o arquivo `database_model.mwb` é necessário instalar o programa citado anteriormente.
 
 Para executar as questões 1 e 2 do desafio, é necessário um servidor MySQL instalado e rodar o script `database.sql` que irá tratar de criar o banco de dados, as tabelas e as popular de acordo.
 
