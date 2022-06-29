@@ -11,4 +11,5 @@ Como se trata mais de uma modelagem, favor visualizar o arquivo `a_01.png` para 
 ## Atividade 02
 Execute o arquivo `a_02.sql` para obter as respostas solicitadas. (nota: é necessário o banco de dados devidamente configurado conforme explicado acima)
 
+
 ## Atividade 03
