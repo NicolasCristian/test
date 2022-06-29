@@ -13,3 +13,6 @@ Execute o arquivo `a_02.sql` para obter as respostas solicitadas. (nota: é nece
 
 
 ## Atividade 03
+O código foi escrito em Python 3, portanto, é necessário ter o mesmo instalado na máquina.
+
+Após isso, basta executar o código, exemplo: `python3 a_03.py`.

@@ -1,1 +1,1 @@
-# test
+This repository was created only to serve as the codebase for a job posting coding challenge.
