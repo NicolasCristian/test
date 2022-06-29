@@ -1,8 +1,7 @@
-#!/bin/python3
-
 import json, math
 
-# Benoit - Desafio 3
+#
+# Benoit - Desafio 2.3
 #
 # Crie um objeto com os dias e suas respectivas temperaturas e escreva um algoritmo que receba um vetor do objeto, onde o algortimo deverá escrever as seguintes informações:
 #
